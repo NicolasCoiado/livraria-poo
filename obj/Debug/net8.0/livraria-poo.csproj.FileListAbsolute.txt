@@ -1,0 +1,14 @@
+C:\Users\nicol\Desktop\livraria-poo\bin\Debug\net8.0\livraria-poo.exe
+C:\Users\nicol\Desktop\livraria-poo\bin\Debug\net8.0\livraria-poo.deps.json
+C:\Users\nicol\Desktop\livraria-poo\bin\Debug\net8.0\livraria-poo.runtimeconfig.json
+C:\Users\nicol\Desktop\livraria-poo\bin\Debug\net8.0\livraria-poo.dll
+C:\Users\nicol\Desktop\livraria-poo\bin\Debug\net8.0\livraria-poo.pdb
+C:\Users\nicol\Desktop\livraria-poo\obj\Debug\net8.0\livraria-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\livraria-poo\obj\Debug\net8.0\livraria-poo.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\livraria-poo\obj\Debug\net8.0\livraria-poo.AssemblyInfo.cs
+C:\Users\nicol\Desktop\livraria-poo\obj\Debug\net8.0\livraria-poo.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\livraria-poo\obj\Debug\net8.0\livraria-poo.dll
+C:\Users\nicol\Desktop\livraria-poo\obj\Debug\net8.0\refint\livraria-poo.dll
+C:\Users\nicol\Desktop\livraria-poo\obj\Debug\net8.0\livraria-poo.pdb
+C:\Users\nicol\Desktop\livraria-poo\obj\Debug\net8.0\livraria-poo.genruntimeconfig.cache
+C:\Users\nicol\Desktop\livraria-poo\obj\Debug\net8.0\ref\livraria-poo.dll
